@@ -1,3 +1,1 @@
-this project is about "L'ORMVAT" a Regional Office for Agricultural Development of Tadla. 
-as a trainee i've spent a month in this office and created my first dynamique website 
-using html ,css ,JavaScript , SQL and PHP. 
+As an intern at the Regional Office for Agricultural Development of Tadla (L'ORMVAT), I spent a month working on a dynamic website project. During this time, I developed my first dynamic website using HTML, CSS, JavaScript, SQL, and PHP.
