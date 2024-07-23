@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modernisation des réseaux gravitaires</title>
     <script src="https://kit.fontawesome.com/234ec31ea5.js" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" type="x-icon" href="images/ORMVAT.png">
+    <link rel="shortcut icon" type="x-icon" href="images/racco.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
     <section class="header"><i class="fa fa-times"></i>
         <nav>
             <div class="wrapper">
-             <a href="officeHTML.php" class="logo"><img src="images/ORMVAT.png" height="50px" weight="50px"
+             <a href="officeHTML.php" class="logo"><img src="images/racco.png" height="50px" weight="50px"
      alt="logoo" ></a>
                 <ul class="nav-links"> 
                     <li><a href="officeHTML.php" class="titre">Acceuil</a></li> 
