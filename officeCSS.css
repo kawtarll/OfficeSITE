@@ -17,6 +17,7 @@ nav .logo img{
     position: relative;
     min-height: 100vh;
 }
+
 .drop-menu1 ul{
     text-align: center;
     backdrop-filter: blur(10px);
@@ -267,7 +268,7 @@ visibility: hidden;
     left: 10px;
 }
 .next{
-    right: 800px;
+    right: 500px;
 }
 .ORMVAT p{
      position: absolute;
